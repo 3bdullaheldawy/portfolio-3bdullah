@@ -275,7 +275,7 @@ body::before{
     position: sticky;
  }
  .F2{
-    position: sticky;
+    position: absolute;
  }
 
 }
